@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\bin\Debug\net8.0\Proj. Listas - Biblioteca.exe
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\bin\Debug\net8.0\Proj. Listas - Biblioteca.deps.json
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\bin\Debug\net8.0\Proj. Listas - Biblioteca.runtimeconfig.json
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\bin\Debug\net8.0\Proj. Listas - Biblioteca.dll
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\bin\Debug\net8.0\Proj. Listas - Biblioteca.pdb
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\obj\Debug\net8.0\Proj. Listas - Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\obj\Debug\net8.0\Proj. Listas - Biblioteca.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\obj\Debug\net8.0\Proj. Listas - Biblioteca.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\obj\Debug\net8.0\Proj. Listas - Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\obj\Debug\net8.0\Proj. Listas - Biblioteca.dll
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\obj\Debug\net8.0\refint\Proj. Listas - Biblioteca.dll
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\obj\Debug\net8.0\Proj. Listas - Biblioteca.pdb
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\obj\Debug\net8.0\Proj. Listas - Biblioteca.genruntimeconfig.cache
+C:\Users\alexa\source\repos\Proj. Listas - Biblioteca\Proj. Listas - Biblioteca\obj\Debug\net8.0\ref\Proj. Listas - Biblioteca.dll
